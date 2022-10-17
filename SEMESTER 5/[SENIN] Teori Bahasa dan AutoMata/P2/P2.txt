@@ -1,0 +1,48 @@
+TINGKAT B. PEMROGRAMAN
++ RENDAH => B. Mesin
++ MENENGAH =>
++ TINGGI =>
+
+"Sebuah mesin hanya mengenali bahasa pemrograman tingkat tinggi"
+
+Program Sumber => 
+
+Teori => Materi
+
+Teori Bahasa ( Formal )
+
+AutoMata ( Dapat Mengenali Bahasa Tertentu )
++ Input ( harus dikenali mesin )
++ Mesin dapat menerima / menolak
+
+Entitas Abstrak => Tidak dapat didefinisikan secara formal
+
+|w| ( Panjang / Jumlah String )
+
+|3| ( Kosong )
+
+Simbol Terminal => Simbol yang tidak dapat diturunkan lagi
+
+Non Simbol Terminal => Simbol dapat diturunkan
+
+-> ( Menghasilkan )
+
+| ( Atau )
++ ( Atau )
+
+V ( Variabel )
+T ( Terminal )
+
+Tata Bahasa ( Grammar )
+
+1 - Unrestricted
++ Tidak memiliki batasan
+
+2 - Context Sensitive
+3 - Context Free
+4 - Regular
+
+# FSA FINITE STATE AUTOMATA => 
+
++ FSA FINITE STATE AUTOMATA ( Deterministic )
++ FSA FINITE STATE AUTOMATA ( Non Deterministic )
