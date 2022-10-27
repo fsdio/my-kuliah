@@ -1,0 +1,10 @@
+# Jenis FSA
+
+DFA
+NFA
+
+DFA => 1 STATE
+Q
+3
+S
+F
