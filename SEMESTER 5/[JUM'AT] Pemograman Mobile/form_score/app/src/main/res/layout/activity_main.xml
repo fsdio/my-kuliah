@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FORM SCORE"
+        android:textAlignment="center"
+        android:textSize="32dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KELOMPOK A"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/edit_txt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/btn_save1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="SAVE" />
+
+            <TextView
+                android:id="@+id/txt_view1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"
+                android:text="HASIL"/>
+
+            <TextView
+                android:id="@+id/hasil_txt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hasil Dari Text 1"
+                android:layout_below="@id/txt_view1"
+                />
+
+            <Button
+                android:id="@+id/btn_clear1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="CLEAR"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KELOMPOK B"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/edit_txt2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/btn_save2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="SAVE" />
+
+            <TextView
+                android:id="@+id/txt_view2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"
+                android:text="HASIL"/>
+
+            <TextView
+                android:id="@+id/hasil_txt2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hasil Dari Text 1"
+                android:layout_below="@id/txt_view1"
+                />
+
+            <Button
+                android:id="@+id/btn_clear2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="CLEAR"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
