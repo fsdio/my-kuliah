@@ -52,8 +52,8 @@ public class FormScore extends AppCompatActivity implements FormScoreInterface {
     btn3.setOnClickListener(new View.OnClickListener() {
       public void onClick(View v) {
 
-        editt_txt1.setText("");
         vieww_txt1.setText("");
+        editt_txt1.setText("");
       }
     });
 
@@ -61,8 +61,9 @@ public class FormScore extends AppCompatActivity implements FormScoreInterface {
     btn4.setOnClickListener(new View.OnClickListener() {
       public void onClick(View v) {
 
-        editt_txt2.setText("");
+
         vieww_txt2.setText("");
+        editt_txt2.setText("");
       }
     });
 
