@@ -11,12 +11,12 @@
         android:id="@+id/text_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
         android:text="JOKOWI"
         android:textAlignment="center"
         android:textColor="#03A9F4"
         android:textSize="200px"
-        android:textStyle="bold"
-        android:layout_marginLeft="20dp"/>
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/text_2"

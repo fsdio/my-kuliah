@@ -17,14 +17,16 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:gravity="center">
 
         <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
             android:orientation="vertical">
 
             <TextView
@@ -37,6 +39,8 @@
                 android:id="@+id/edit_txt1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:maxEms="2"
                 android:text="" />
 
             <Button
@@ -51,29 +55,29 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:textStyle="bold"
-                android:text="HASIL"/>
+                android:text="HASIL"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/hasil_txt1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Hasil Dari Text 1"
                 android:layout_below="@id/txt_view1"
-                />
+                android:text="Hasil Dari Text 1" />
 
             <Button
                 android:id="@+id/btn_clear1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="CLEAR"/>
+                android:text="CLEAR" />
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:layout_marginLeft="20dp"
             android:orientation="vertical">
 
@@ -87,7 +91,8 @@
                 android:id="@+id/edit_txt2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="" />
+                android:text=""
+                android:inputType="numberDecimal"/>
 
             <Button
                 android:id="@+id/btn_save2"
@@ -101,23 +106,22 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:textStyle="bold"
-                android:text="HASIL"/>
+                android:text="HASIL"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/hasil_txt2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Hasil Dari Text 1"
                 android:layout_below="@id/txt_view1"
-                />
+                android:text="Hasil Dari Text 1" />
 
             <Button
                 android:id="@+id/btn_clear2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="CLEAR"/>
+                android:text="CLEAR" />
 
         </LinearLayout>
     </LinearLayout>
