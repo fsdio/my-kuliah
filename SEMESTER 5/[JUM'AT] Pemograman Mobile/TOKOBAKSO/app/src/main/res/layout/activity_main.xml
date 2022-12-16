@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TOKO BAKSO"
+        android:textAlignment="center"
+        android:textSize="5mm"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/img1"
+        android:layout_width="180dp"
+        android:layout_height="124dp"
+        android:layout_below="@+id/txt1"
+        android:scaleType="fitXY"
+        android:src="@drawable/ayambakar"
+        />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img1"
+        android:text="Rp. 20.000"
+        android:textSize="3mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt1"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_toRightOf="@+id/img1"
+        android:maxLines="7"
+        android:text="Mie Ayam Bakso dengan rasa pedas tiada tandingnya"
+        android:textSize="3mm"
+        android:textStyle="bold"/>
+
+    <ImageButton
+        android:id="@+id/img2"
+        android:layout_width="180dp"
+        android:layout_height="124dp"
+        android:layout_below="@+id/txt2"
+        android:scaleType="fitXY"
+        android:src="@drawable/baksoceker"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img2"
+        android:text="Rp. 25.000"
+        android:textSize="3mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt2"
+
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_toRightOf="@+id/img2"
+        android:maxLines="7"
+        android:text="Mie Ayam Bakso ceker dengan rasa gurih, dari ceker ayam cimahi tiada tandingannya"
+        android:textSize="3mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt4"
+        android:text="Menu yang dipilih"
+        android:textAlignment="center"
+        android:textSize="3mm"/>
+
+    <TextView
+        android:id="@+id/txt7"
+        android:layout_width="154dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/txt6"
+        android:text="Mie Ayam Bakso Rp. "
+        android:textSize="2mm"
+        android:paddingTop="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt8"
+        android:layout_width="146dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/txt6"
+        android:paddingTop="10dp"
+        android:layout_toRightOf="@+id/txt7"
+        android:textSize="2mm"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt1"
+        android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt6"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="2dp"
+        android:inputType="numberDecimal"
+        android:layout_toRightOf="@+id/txt8"
+        android:text="0"
+        android:textSize="2mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt9"
+        android:layout_width="154dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/txt7"
+        android:paddingTop="10dp"
+        android:text="Mie Ayam Bakso Rp. "
+        android:textSize="2mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt10"
+        android:layout_width="146dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/txt7"
+        android:layout_toRightOf="@+id/txt7"
+        android:textSize="2mm"
+        android:paddingTop="10dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt2"
+        android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt7"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="2dp"
+        android:inputType="numberDecimal"
+        android:layout_toRightOf="@+id/txt8"
+        android:text="0"
+        android:textSize="2mm"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt2"
+        android:text="Pembayaran"
+        android:textSize="3mm"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn1"
+        android:textSize="3mm"
+        android:textAlignment="center"
+        android:text="[ 0 ]"/>
+
+
+</RelativeLayout>
