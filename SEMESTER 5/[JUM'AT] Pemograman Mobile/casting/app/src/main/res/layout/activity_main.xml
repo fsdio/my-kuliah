@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/t_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20mm"
+        android:text="Casting"
+        android:textSize="5mm" />
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="22mm"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t_1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:text="Panjang:"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:text="Lebar:"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:text="Tinggi:"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t_1"
+        android:layout_toRightOf="@id/l1"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/panjang"
+            android:inputType="number"
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:hint="Panjang"
+            android:textSize="2mm"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/lbr"
+            android:inputType="number"
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:hint="Lebar"
+            android:textSize="2mm"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/tinggi"
+            android:inputType="number"
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:hint="Tinggi"
+            android:textSize="2mm"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l3"
+        android:layout_width="22mm"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l2"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:text="HASIL:"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+        <TextView
+
+            android:id="@+id/id_volume"
+            android:layout_width="20mm"
+            android:layout_height="7mm"
+            android:hint="hasil"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l3"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/brun"
+            android:layout_width="20mm"
+            android:layout_marginRight="2mm"
+            android:layout_height="wrap_content"
+            android:text="Run"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bclear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear"
+            android:textSize="5mm"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
