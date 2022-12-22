@@ -1,0 +1,2096 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+
+<head>
+    <meta charset="UTF-8" />
+    <title>10 Tipe Data yang Sering Dipakai Programmer di 2022</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://glints.com/id/lowongan/xmlrpc.php" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://glints.com/id/lowongan/wp-content/themes/glint-blog-wp/style.min.css" />
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/dc226524d4.js" crossorigin="anonymous" async></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"></script>
+    <script src="https://glints.com/id/lowongan/wp-content/themes/glint-blog-wp/script.js"></script>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="preload" href="https://glints.com/id/lowongan/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf" type="font/ttf" as="font" crossorigin="anonymous">
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.0.1 (Yoast SEO v19.11) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Ingin berkecimpung di dunia programming? Bila ya, kamu harus mengenal apa itu tipe data. Yuk, pelajari serba-serbinya dalam artikel ini!" />
+	<link rel="canonical" href="https://glints.com/id/lowongan/tipe-data/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="10 Tipe Data yang Sering Dipakai Programmer di 2022" />
+	<meta property="og:description" content="Ingin berkecimpung di dunia programming? Bila ya, kamu harus mengenal apa itu tipe data. Yuk, pelajari serba-serbinya dalam artikel ini!" />
+	<meta property="og:url" content="https://glints.com/id/lowongan/tipe-data/" />
+	<meta property="og:site_name" content="Glints Blog" />
+	<meta property="article:publisher" content="http://facebook.com/glintsintern" />
+	<meta property="article:author" content="-" />
+	<meta property="article:published_time" content="2022-03-20T10:45:36+00:00" />
+	<meta property="article:modified_time" content="2022-12-02T04:21:14+00:00" />
+	<meta property="og:image" content="https://glints.com/id/lowongan/wp-content/uploads/2022/03/learning-programming-language.jpg" />
+	<meta property="og:image:width" content="1080" />
+	<meta property="og:image:height" content="720" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Andre Oliver" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@andreoliverr" />
+	<meta name="twitter:site" content="@glintsintern" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Andre Oliver" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://glints.com/id/lowongan/tipe-data/","url":"https://glints.com/id/lowongan/tipe-data/","name":"10 Tipe Data yang Sering Dipakai Programmer di 2022","isPartOf":{"@id":"https://glints.com/id/lowongan/#website"},"primaryImageOfPage":{"@id":"https://glints.com/id/lowongan/tipe-data/#primaryimage"},"image":{"@id":"https://glints.com/id/lowongan/tipe-data/#primaryimage"},"thumbnailUrl":"https://glints.com/id/lowongan/wp-content/uploads/2022/03/learning-programming-language.jpg","datePublished":"2022-03-20T10:45:36+00:00","dateModified":"2022-12-02T04:21:14+00:00","author":{"@id":"https://glints.com/id/lowongan/#/schema/person/698ca828e80a5838cdb6e2a88b4c1e35"},"description":"Ingin berkecimpung di dunia programming? Bila ya, kamu harus mengenal apa itu tipe data. Yuk, pelajari serba-serbinya dalam artikel ini!","breadcrumb":{"@id":"https://glints.com/id/lowongan/tipe-data/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://glints.com/id/lowongan/tipe-data/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://glints.com/id/lowongan/tipe-data/#primaryimage","url":"https://glints.com/id/lowongan/wp-content/uploads/2022/03/learning-programming-language.jpg","contentUrl":"https://glints.com/id/lowongan/wp-content/uploads/2022/03/learning-programming-language.jpg","width":1080,"height":720,"caption":"© Freepik.com"},{"@type":"BreadcrumbList","@id":"https://glints.com/id/lowongan/tipe-data/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://glints.com/id/lowongan/"},{"@type":"ListItem","position":2,"name":"10 Tipe Data yang Sering Dipakai Programmer di 2022"}]},{"@type":"WebSite","@id":"https://glints.com/id/lowongan/#website","url":"https://glints.com/id/lowongan/","name":"Glints Blog","description":"Artikel karier &amp; pengembangan diri","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://glints.com/id/lowongan/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://glints.com/id/lowongan/#/schema/person/698ca828e80a5838cdb6e2a88b4c1e35","name":"Andre Oliver","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://glints.com/id/lowongan/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/f6d821fddbeb0b01120793ae46273ae2?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/f6d821fddbeb0b01120793ae46273ae2?s=96&d=mm&r=g","caption":"Andre Oliver"},"description":"an experienced content writer and a young graduate from UI","sameAs":["http://sengketarasa.wordpress.com","-","instagram.com/andreoliverrr","www.linkedin.com/in/andre-oliver-9065431a1","https://twitter.com/andreoliverr"],"url":"https://glints.com/id/lowongan/author/andreoliver/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//glints.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Glints Blog &raquo; 10 Tipe Data yang Sering Dipakai Programmer di 2022 Comments Feed" href="https://glints.com/id/lowongan/tipe-data/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/glints.com\/id\/lowongan\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='esu_style_url-css' href='https://glints.com/id/lowongan/wp-content/plugins/easy-sign-up/css/esu-styles.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://glints.com/id/lowongan/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='banner-list-block-css' href='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/blocks/banner-list/style.css?ver=1614016361' type='text/css' media='all' />
+<link rel='stylesheet' id='rotating-banner-block-css' href='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/blocks/rotating-banner/style.css?ver=1614016361' type='text/css' media='all' />
+<link rel='stylesheet' id='single-banner-block-css' href='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/blocks/single-banner/style.css?ver=1614016361' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://glints.com/id/lowongan/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-banners-css-css' href='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/assets/css/wp-banners.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rate-my-post-css' href='https://glints.com/id/lowongan/wp-content/plugins/rate-my-post/public/css/rate-my-post.css?ver=3.3.8' type='text/css' media='all' />
+<style id='rate-my-post-inline-css' type='text/css'>
+.rmp-widgets-container.rmp-wp-plugin.rmp-main-container {  text-align:right;}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://glints.com/id/lowongan/wp-includes/css/dashicons.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='to-top-css' href='https://glints.com/id/lowongan/wp-content/plugins/to-top/public/css/to-top-public.css?ver=2.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='leafet-css' href='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/media/leaflet.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='leafet-markers-css' href='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/media/leaflet.awesome-markers.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-frontend-css' href='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/media/tm-frontend.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://glints.com/id/lowongan/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-colorbox-style-css' href='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/media/colorbox/colorbox.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://glints.com/id/lowongan/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css' href='https://glints.com/id/lowongan/wp-content/plugins/addthis-smart-layers/frontend/build/addthis_wordpress_public.min.css?ver=6.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/sticky-ad-bar/js/sab_bar_script.js?ver=6.1.1' defer onload='' id='sab_bar_script1-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/sticky-ad-bar/js/jquery.cookie.js?ver=6.1.1' id='sab_bar_script2-js'></script>
+<script type='text/javascript' id='ruigehond006_javascript-js-extra'>
+/* <![CDATA[ */
+var ruigehond006_c = {"bar_attach":"top","bar_color":"#f1592a","bar_height":".5vh","post_types":["post","post"],"post_identifier":".post-101366.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-bidang-profesi.category-it.category-tech-data.tag-beginner.tag-it.tag-programming.tag-tipe-data","post_id":"101366"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-reading-progress/wp-reading-progress.min.js?ver=1.5.0' defer onload='' id='ruigehond006_javascript-js'></script>
+<script type='text/javascript' id='to-top-js-extra'>
+/* <![CDATA[ */
+var to_top_options = {"scroll_offset":"100","icon_opacity":"40","style":"icon","icon_type":"dashicons-arrow-up-alt2","icon_color":"#ffffff","icon_bg_color":"#000000","icon_size":"25","border_radius":"5","image":"https:\/\/glints.com\/id\/lowongan\/wp-content\/plugins\/to-top\/admin\/images\/default.png","image_width":"65","image_alt":"","location":"bottom-right","margin_x":"20","margin_y":"50","show_on_admin":"0","enable_autohide":"1","autohide_time":"2","enable_hide_small_device":"1","small_device_max_width":"640","reset":"0"};
+/* ]]> */
+</script>
+<script async type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/to-top/public/js/to-top-public.js?ver=2.5.1' defer onload='' id='to-top-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/leaflet-src.js?ver=0.7.2' defer onload='' id='leaflet-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/leaflet-providers.js?ver=1.0.5' defer onload='' id='leaflet-providers-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/leaflet.awesome-markers.js?ver=2.0.2' defer onload='' id='leaflet-markers-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/leaflet.geodesic.js?ver=1.0.0' defer onload='' id='leaflet-geodesic-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/jquery.colorbox-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/js/jquery-dateFormat.min.js?ver=1.0.0' id='jquery-dateFormat-js'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-includes/js/json2.min.js?ver=2015-05-03' defer onload='' id='json2-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wp-travelermap/frontend/js/travelermap-frontend.js?ver=1.4.0' defer onload='' id='travelermap-frontend-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/glints.com\/id\/lowongan\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/glints.com\/id\/lowongan\/wp-json\/wordpress-popular-posts","ID":101366,"token":"7bbc90bbf4","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.1.1' defer onload='' id='wpp-js-js'></script>
+<link rel="https://api.w.org/" href="https://glints.com/id/lowongan/wp-json/" /><link rel="alternate" type="application/json" href="https://glints.com/id/lowongan/wp-json/wp/v2/posts/101366" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://glints.com/id/lowongan/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://glints.com/id/lowongan/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://glints.com/id/lowongan/?p=101366' />
+<link rel="alternate" type="application/json+oembed" href="https://glints.com/id/lowongan/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fglints.com%2Fid%2Flowongan%2Ftipe-data%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://glints.com/id/lowongan/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fglints.com%2Fid%2Flowongan%2Ftipe-data%2F&#038;format=xml" />
+
+<!-- This site is using AdRotate v5.9.1.1 to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<style type="text/css" media="screen"></style>
+			<script type='text/javascript'>
+				/* Easy Sign Up Plugin */
+				var esu_err_colors = {'background-color': 'red','color':'white'};
+				var esu_good_colors = {'background-color': '#F5F5DC','color':'#FFD797'};
+				var esu_err_css = {'top':0,'left':0,'right':0,'width':'100%','position':'fixed'};
+				var esu_required_txt = ' Required';
+				var esu_not_valid_txt = ' Not Valid';
+				var esu_show_bar = true;
+			</script>
+<meta name="generator" content="Site Kit by Google 1.89.0" />
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:1847655,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09f}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><meta name="google-site-verification" content="4Nrm8z1kq5Assi7Cu-2V1PJKzTfMPh0KX8ZE-TsMWiw"><meta name="google-site-verification" content="pU0SYeXLziBG_2qTOnzx_MC3GBYstGo2vOGqNsh27bc"><meta name="google-site-verification" content="_Rmt8lDtGNSC-8Foh8GHxAkl81Q58JLYpK242UgA3_Y"><style>#ruigehond006_wrap{z-index:10001;position:fixed;display:block;left:0;width:100%;margin:0;overflow:visible}#ruigehond006_inner{position:absolute;height:0;width:inherit;background-color:rgba(255,255,255,.2);-webkit-transition:height .4s;transition:height .4s}html[dir=rtl] #ruigehond006_wrap{text-align:right}#ruigehond006_bar{width:0;height:100%;background-color:transparent}</style>
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script type="text/javascript">
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-NNXRHZJ' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<link rel="icon" href="https://glints.com/id/lowongan/wp-content/uploads/2017/12/glints-logo-copy.png" sizes="32x32" />
+<link rel="icon" href="https://glints.com/id/lowongan/wp-content/uploads/2017/12/glints-logo-copy.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://glints.com/id/lowongan/wp-content/uploads/2017/12/glints-logo-copy.png" />
+<meta name="msapplication-TileImage" content="https://glints.com/id/lowongan/wp-content/uploads/2017/12/glints-logo-copy.png" />
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(255,246,2,.88);}</style>		<style type="text/css" id="wp-custom-css">
+			.instagram-media{margin:0 auto !important;}		</style>
+		<style id="sccss"> #bitnami-banner{
+     display:none !important;
+ }
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 {
+	font-size: 1.17rem;
+}
+
+h4 {
+	font-size: 16px;
+}
+
+.customized-tag-and-share-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.showDesktop, .showMobile {
+	display: none;
+}
+
+.desktop-two-column {
+    grid-area: featuredcontent;
+    display: grid;
+    grid-template-columns: 65% 30%;
+    grid-gap: 5%;
+    min-height: 485px;
+		margin-left: 80px;
+    margin-right: 80px;
+}
+
+.desktop-two-column .singlecontent .row {
+		margin-left: 0;
+}
+
+@media screen and (max-width: 1024px) {
+	.showMobile {
+		display: block;
+	}
+	
+	.desktop-two-column {
+		display: block;
+		margin-left: 0;
+    margin-right: 0;
+	}
+
+	.desktop-two-column .singlecontent .row {
+		margin-right: 0;
+	}
+
+	.desktop-two-column .job-recommendation {
+		margin-bottom: 60px;
+	}
+	
+	.customized-tag-and-share-container .tags {
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (min-width: 1025px) {
+	.customized-tag-and-share-container {
+		flex-direction: row;
+	}
+
+	.customized-tag-and-share-container .tags {
+		margin-right: auto;
+	}
+	
+	.showDesktop {
+		display: block;
+	}
+}
+
+/* global typography */
+h1 {
+	font-size: 46px;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+p.wp-caption-text {
+	font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 28px;
+		font-weight: bold;
+  }
+}
+
+
+/* blog detail typography */
+#singlecontainer h1.tithead {
+		font-size: 24px;
+}
+
+#singlecontainer h1 {
+  font-size: 46px;
+}
+#singlecontainer h2 {
+  font-size: 30px;
+	font-weight: bold;
+}
+#singlecontainer h3 {
+  font-size: 26px;
+	font-weight: bold;
+}
+#singlecontainer h4 {
+  font-size: 20px;
+}
+#singlecontainer h5, #singlecontainer h3.datehead, #singlecontainer h2.cathead{
+  font-size: 16px;
+}
+#singlecontainer h6 {
+  font-size: 16px;
+}
+@media screen and (max-width: 768px) {
+
+  #singlecontainer h1 {
+    font-size: 30px;
+  }
+  #singlecontainer h2 {
+    font-size: 28px;
+  }
+  #singlecontainer h3 {
+    font-size: 26px;
+  }
+  #singlecontainer h4 {
+    font-size: 20px;
+  }
+  #singlecontainer h5, #singlecontainer h3.datehead, #singlecontainer h2.cathead{
+    font-size: 16px;
+  }
+  #singlecontainer h6 {
+    font-size: 16px;
+  }		
+}
+
+a {
+	color: #017EB7;
+}
+a:hover {
+	color: rgb(0, 75, 104);
+}</style><!-- To Top Custom CSS --><style type='text/css'>#to_top_scrollup {font-size: 25px; width: 25px; height: 25px;opacity: 0.4;right:20px;bottom:50px;}</style></head>
+
+<body>
+    <!-- dev -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script> -->
+    <!-- prod -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2"></script> -->
+    <style>
+        body {
+            margin: 0px;
+        }
+    </style><div id="navbar-main">
+    <a href="https://glints.com/id/lowongan/">
+        <img src="https://glints.com/id/lowongan/wp-content/themes/glint-blog-wp/assets/logo.svg" class="logo" width="50" height="40">
+    </a>
+    <img class="hamburger" src="https://glints.com/id/lowongan/wp-content/themes/glint-blog-wp/assets/hamburger.svg" height="32" width="32">
+    <div class="menu">
+        <div class="menu-homepage-header-menu-container"><ul id="menu-homepage-header-menu" class="menu"><li id="menu-item-60019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-60019"><a href="https://glints.com/id/lowongan/">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-60024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60024"><a href="https://glints.com/id/lowongan/category/bidang-profesi/">Bidang Profesi</a>
+	<ul class="sub-menu">
+		<li id="menu-item-60035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60035"><a href="https://glints.com/id/lowongan/category/bidang-profesi/marketing/">Marketing</a></li>
+		<li id="menu-item-60034" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-60034"><a href="https://glints.com/id/lowongan/category/bidang-profesi/tech-data/">Tech &amp; Data</a></li>
+		<li id="menu-item-60038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60038"><a href="https://glints.com/id/lowongan/category/bidang-profesi/media-communications/">Media &amp; Communications</a></li>
+		<li id="menu-item-60040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60040"><a href="https://glints.com/id/lowongan/category/bidang-profesi/business-dev-sales/">Business Dev &amp; Sales</a></li>
+		<li id="menu-item-60037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60037"><a href="https://glints.com/id/lowongan/category/bidang-profesi/product/">Product</a></li>
+		<li id="menu-item-60036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60036"><a href="https://glints.com/id/lowongan/category/bidang-profesi/design/">Design</a></li>
+	</ul>
+</li>
+	<li id="menu-item-60025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60025"><a href="https://glints.com/id/lowongan/category/tips-karier/">Tips Karier</a>
+	<ul class="sub-menu">
+		<li id="menu-item-60032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60032"><a href="https://glints.com/id/lowongan/category/tips-karier/mengawali-karier/">Mengawali Karier</a></li>
+		<li id="menu-item-60033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60033"><a href="https://glints.com/id/lowongan/category/tips-karier/dunia-kerja/">Dunia Kerja</a></li>
+	</ul>
+</li>
+	<li id="menu-item-84004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84004"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/">Konten Eksklusif</a>
+	<ul class="sub-menu">
+		<li id="menu-item-85620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85620"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/artikel-expert/">Artikel Expert</a></li>
+		<li id="menu-item-84006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84006"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/panduan/">Panduan</a></li>
+		<li id="menu-item-84005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84005"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/laporan/">Laporan</a></li>
+	</ul>
+</li>
+	<li id="menu-item-60026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60026"><a href="https://glints.com/id/lowongan/category/dari-glints/">Dari Glints</a>
+	<ul class="sub-menu">
+		<li id="menu-item-102821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102821"><a href="https://glints.com/id/lowongan/category/dari-glints/panduan-komunitas-konten/">Panduan Komunitas &amp; Konten</a></li>
+		<li id="menu-item-60027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60027"><a href="https://glints.com/id/lowongan/category/dari-glints/campaign-berlangsung/">Campaign Berlangsung</a></li>
+		<li id="menu-item-60028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60028"><a href="https://glints.com/id/lowongan/category/dari-glints/kabar-produk/">Kabar Produk</a></li>
+		<li id="menu-item-60029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60029"><a href="https://glints.com/id/lowongan/category/dari-glints/kabar-glints/">Kabar Glints</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-60020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60020"><a href="https://glints.com/id/lowongan-kerja">Lowongan Kerja</a></li>
+<li id="menu-item-60021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60021"><a href="https://glints.com/id/expert-class">Glints ExpertClass</a></li>
+<li id="menu-item-60023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60023"><a href="https://glints.com/id/komunitas">Glints Community</a></li>
+</ul></div>    </div>
+    <div class="button-group">
+        <button class="primary subscribe">berlangganan</button>
+        <a href="https://glints.com/id/signup">
+            <button class="outline-primary">buat akun</button>
+        </a>
+        <span class="separator"></span>
+        <a href="https://employers.glints.id">
+            <button class="outline-black">untuk perusahaan <i class="fas fa-arrow-right"></i></button>
+        </a>
+    </div>
+</div>
+<div class="side-menu">
+    <div id="div-325BBE53">
+    <div id="div-1F2182EF">
+        <div class="head">
+            <i style="font-size: 24px; float: right;" class="fas fa-arrow-right close-btn"></i>
+            <div>
+                <button class="subscribe-mobile">berlangganan</button>
+                <a href="https://glints.com/id/signup">
+                    <button>daftar</button>
+                </a>
+            </div>
+        </div>
+        <hr style="border-bottom: 1px solid #c6c6c6; margin-top: 24px; margin-bottom: 24px;" />
+        <div class="menu-homepage-header-menu-container"><ul id="menu-homepage-header-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-60019"><a href="https://glints.com/id/lowongan/">Blog</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60024"><a href="https://glints.com/id/lowongan/category/bidang-profesi/">Bidang Profesi</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60035"><a href="https://glints.com/id/lowongan/category/bidang-profesi/marketing/">Marketing</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-60034"><a href="https://glints.com/id/lowongan/category/bidang-profesi/tech-data/">Tech &amp; Data</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60038"><a href="https://glints.com/id/lowongan/category/bidang-profesi/media-communications/">Media &amp; Communications</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60040"><a href="https://glints.com/id/lowongan/category/bidang-profesi/business-dev-sales/">Business Dev &amp; Sales</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60037"><a href="https://glints.com/id/lowongan/category/bidang-profesi/product/">Product</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60036"><a href="https://glints.com/id/lowongan/category/bidang-profesi/design/">Design</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60025"><a href="https://glints.com/id/lowongan/category/tips-karier/">Tips Karier</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60032"><a href="https://glints.com/id/lowongan/category/tips-karier/mengawali-karier/">Mengawali Karier</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60033"><a href="https://glints.com/id/lowongan/category/tips-karier/dunia-kerja/">Dunia Kerja</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84004"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/">Konten Eksklusif</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85620"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/artikel-expert/">Artikel Expert</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84006"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/panduan/">Panduan</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84005"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/laporan/">Laporan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60026"><a href="https://glints.com/id/lowongan/category/dari-glints/">Dari Glints</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102821"><a href="https://glints.com/id/lowongan/category/dari-glints/panduan-komunitas-konten/">Panduan Komunitas &amp; Konten</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60027"><a href="https://glints.com/id/lowongan/category/dari-glints/campaign-berlangsung/">Campaign Berlangsung</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60028"><a href="https://glints.com/id/lowongan/category/dari-glints/kabar-produk/">Kabar Produk</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60029"><a href="https://glints.com/id/lowongan/category/dari-glints/kabar-glints/">Kabar Glints</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60020"><a href="https://glints.com/id/lowongan-kerja">Lowongan Kerja</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60021"><a href="https://glints.com/id/expert-class">Glints ExpertClass</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60023"><a href="https://glints.com/id/komunitas">Glints Community</a></li>
+</ul></div>        <hr style="border-bottom: 1px solid #c6c6c6; margin-top: 24px; margin-bottom: 24px;" />
+        <a href="https://employers.glints.id">
+            <button class="outline-blue">
+                untuk perusahaan
+                <i class="fas fa-arrow-right"></i>
+            </button>
+        </a>
+        <br /><br />
+    </div>
+</div>
+<script>
+    $('#div-1F2182EF ul li a').attr('target', '_blank');
+    $('#div-1F2182EF ul>li>ul>li>ul').children().slideToggle();
+    $('#div-1F2182EF ul>li>ul>li').click(function() {
+        $(this).find('ul').children().slideToggle();
+    })
+</script>
+<style>
+    #div-325BBE53 {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.64);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 30;
+    }
+
+    #div-1F2182EF {
+        position: absolute;
+        right: 0;
+        height: 100vh;
+        padding: 16px;
+        overflow: scroll;
+        background: white;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #div-1F2182EF .head button,
+    #div-1F2182EF .head a button {
+        margin-top: 70px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+        font-size: 12px;
+        padding-top: 12px;
+        padding-left: 20px;
+        padding-bottom: 12px;
+        padding-right: 20px;
+        text-transform: uppercase;
+        display: inline-block;
+    }
+
+    #div-1F2182EF .head button {
+        color: white;
+        background: #017eb7;
+        border: 2px solid #017eb7;
+        margin-right: 10px;
+    }
+
+    #div-1F2182EF .head button:last-child {
+        margin-right: 0px;
+    }
+
+    #div-1F2182EF .head a button {
+        color: #017eb7;
+        background: white;
+        border: 2px solid #017eb7;
+    }
+
+    #div-1F2182EF ul {
+        list-style: none;
+        position: relative;
+        margin-left: -40px;
+    }
+
+    #div-1F2182EF ul li a {
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        color: #000;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        display: block;
+    }
+
+    #div-1F2182EF ul li ul li a {
+        color: #017eb7;
+        font-weight: bold;
+        text-transform: none;
+    }
+
+    #div-1F2182EF ul li ul li ul li a {
+        color: #777;
+        font-weight: normal;
+    }
+
+    #div-1F2182EF .outline-blue {
+        margin-top: 23px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+        font-size: 12px;
+        padding-top: 12px;
+        padding-left: 20px;
+        padding-bottom: 12px;
+        padding-right: 20px;
+        text-transform: uppercase;
+        width: 100%;
+        display: inline-block;
+        color: #017eb7;
+        background: white;
+        border: 2px solid #017eb7;
+    }
+
+    @media screen and (max-width: 599px) {
+        #div-1F2182EF {
+            width: 85%;
+        }
+
+        #div-1F2182EF .head button,
+        #div-1F2182EF .head a button {
+            width: 44%;
+        }
+    }
+
+    @media screen and (min-width: 600px) {
+        #div-1F2182EF {
+            width: 344px;
+        }
+
+        #div-1F2182EF .head button,
+        #div-1F2182EF .head a button {
+            width: 42.5%;
+        }
+    }
+</style></div>
+<script>
+    $(document).ready(() => {
+        $('.side-menu').hide();
+        $('#navbar-main .sub-menu').hide();
+        $("#navbar-main li.menu-item:first-child").addClass('active');
+        $('#navbar-main li.menu-item').removeClass('current-menu-item');
+        $('#navbar-main li.menu-item').removeClass('current_page_item');
+    })
+    $('#navbar-main ul li a').attr('target', '_blank');
+    // $("#navbar-main li.menu-item").click(function() {
+    //     $("#navbar-main li.menu-item").removeClass('active');
+    //     $(this).addClass('active');
+
+    //     if ($('.sub-menu', this).length >= 1) {
+    //         event.preventDefault();
+    //     }
+    //     $("#navbar-main .sub-menu").hide();
+    //     $(this).find(".sub-menu").show();
+    //     event.stopPropagation();
+    // });
+    $("#navbar-main li.menu-item").hover(function() { // mouse enter
+        $(this).find(" > .sub-menu").show(); // display immediate child
+
+    }, function() { // mouse leave
+        if (!$(this).hasClass("current_page_item")) { // check if current page
+            $(this).find(".sub-menu").hide(); // hide if not current page
+        }
+    });
+    $('#navbar-main .hamburger').click(() => {
+        $('.side-menu').fadeIn();
+    })
+    $('#div-1F2182EF .close-btn').click(() => {
+        $('.side-menu').fadeOut();
+    })
+</script>
+<style>
+    #navbar-main {
+        border-bottom: 1px solid #c6c6c6;
+        position: fixed;
+        margin-top: 0px;
+        z-index: 30;
+        width: 100%;
+        background: white;
+    }
+
+    @media screen and (min-width: 1260px) {
+        #navbar-main {
+            padding: 0px;
+            display: inline-block;
+            position: fixed;
+            z-index: 10;
+        }
+
+        #navbar-main .logo {
+            height: 40px;
+            margin-top: 8px;
+            margin-left: 16px;
+            margin-right: 40px;
+        }
+
+        #navbar-main .menu {
+            vertical-align: middle;
+            display: inline-block;
+            padding: 0px;
+        }
+
+        #navbar-main ul {
+            margin-left: -40px;
+            margin-top: -24px;
+            margin-bottom: 0px;
+        }
+
+        #navbar-main ul li {
+            display: inline-block;
+            vertical-align: top;
+            font-family: 'Poppins', sans-serif;
+            font-size: 12px;
+            text-transform: uppercase;
+            position: relative;
+            padding: 20px;
+        }
+
+        #navbar-main ul li a {
+            text-decoration: none;
+            color: black;
+        }
+
+        #navbar-main ul li.active a {
+            font-weight: bold;
+        }
+
+        #navbar-main ul li ul {
+            position: absolute;
+            margin-top: 35px;
+            margin-left: -16px;
+            top: 24px;
+            box-shadow: 0 16px 24px 0 rgba(0, 0, 0, 0.08);
+            z-index: 10;
+        }
+
+        #navbar-main ul li ul li {
+            display: list-item;
+            list-style: none;
+            font-family: 'Poppins', sans-serif;
+            font-size: 12px;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            margin-left: -42px;
+            border-bottom: 1px solid #c6c6c6;
+            position: relative;
+            width: 100px;
+            background: white;
+        }
+
+        #navbar-main ul li ul li:last-child {
+            border-bottom: none;
+        }
+
+        #navbar-main ul li ul li ul {
+            position: absolute;
+            background: white;
+            margin-left: 124px;
+            margin-top: -24px;
+        }
+
+        #navbar-main .button-group {
+            float: right;
+            margin-top: 8px;
+        }
+
+        #navbar-main .button-group .separator {
+            border-right: 1px solid #c6c6c6;
+            margin-left: 0px;
+            margin-right: 0px;
+            height: 40px;
+            position: absolute;
+            display: inline-block;
+        }
+
+        #navbar-main .primary {
+            font-family: 'Poppins', sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            letter-spacing: 0.88px;
+            color: white;
+            padding: 10px;
+            background: #017eb7;
+            margin-right: 8px;
+            border: 2px solid #017eb7;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+
+        #navbar-main .primary:hover {
+            opacity: 0.64;
+        }
+
+        #navbar-main a {
+            text-decoration: none;
+        }
+
+        #navbar-main .outline-primary {
+            font-family: 'Poppins', sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            letter-spacing: 0.88px;
+            color: #017eb7;
+            padding: 10px;
+            background: white;
+            margin-right: 24px;
+            border: 2px solid #017eb7;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+
+        #navbar-main .outline-primary:hover {
+            background: #017eb7;
+            color: white;
+        }
+
+        #navbar-main .outline-black {
+            font-family: 'Poppins', sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            letter-spacing: 0.88px;
+            color: black;
+            padding: 10px;
+            background: white;
+            margin-left: 24px;
+            margin-right: 16px;
+            border: 2px solid black;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+
+        #navbar-main .outline-black:hover {
+            background: black;
+            color: white;
+        }
+
+        #navbar-main .hamburger {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 1259px) {
+        #navbar-main {
+            padding: 14px;
+        }
+
+
+        #navbar-main .hamburger {
+            float: right;
+            margin-right: 32px;
+            margin-top: 8px;
+            cursor: pointer;
+        }
+
+        #navbar-main .button-group,
+        #navbar-main .menu {
+            display: none;
+        }
+    }
+</style><div id="article">
+
+    <div class="post-container">
+        <div class="breadcrumb">
+            <ul class="post-categories">
+	<li><a href="https://glints.com/id/lowongan/category/bidang-profesi/" rel="category tag">Bidang Profesi</a></li>
+	<li><a href="https://glints.com/id/lowongan/category/bidang-profesi/tech-data/it/" rel="category tag">IT</a></li>
+	<li><a href="https://glints.com/id/lowongan/category/bidang-profesi/tech-data/" rel="category tag">Tech &amp; Data</a></li></ul>        </div>
+        <h1>10 Tipe Data yang Sering Dipakai Programmer di 2022</h1>
+                    <div class="last-update">Diperbarui 02 Des 2022 - <span class="reading-time">Dibaca 12 mnt</span></div>
+                <div class="profile">
+            <div class="frame">
+                <a href="https://glints.com/id/lowongan/author?authorid=95">
+                    <img src="https://secure.gravatar.com/avatar/f6d821fddbeb0b01120793ae46273ae2?s=96&d=mm&r=g" width="80" height="80" />
+                </a>
+            </div>
+            <a href="https://glints.com/id/lowongan/author?authorid=95">
+                <div class="description">
+                    <b>Andre Oliver</b>
+                    <i>an experienced content writer and a young graduate from UI</i>
+                </div>
+            </a>
+        </div>
+        </a>
+        <hr style="border-bottom: solid 1px #c6c6c6; margin-top: 32px;" />
+        <div class="toc">
+            <h2>Isi Artikel</h2>
+            <ol></ol>
+        </div>
+        <div class="excerpt">
+                    </div>
+        <div class="content">
+            <div class="at-above-post addthis_tool" data-url="https://glints.com/id/lowongan/tipe-data/"></div><p><span style="font-weight: 400;">Apabila ingin terjun ke dunia </span><a href="https://glints.com/id/lowongan/jenis-pekerjaan-programming-gajinya/" target="_blank" rel="noopener"><i><span style="font-weight: 400;">programming</span></i></a><span style="font-weight: 400;">, kamu harus mengenal dan menguasai apa itu tipe data.</span></p>
+<p><span style="font-weight: 400;">Khususnya dalam dunia komputasi teknis</span><i><span style="font-weight: 400;">, </span></i><span style="font-weight: 400;">di mana jenis-jenis data ini memegang peran yang cukup penting.</span></p>
+<p><span style="font-weight: 400;">Mereka merupakan klasifikasi yang akan menentukan bagaimana kamu menggunakan data di dalam program.</span></p>
+<p><span style="font-weight: 400;">Tak hanya untuk calon </span><a href="https://glints.com/id/lowongan/karier-programmer/#.YjBU3npBzrc" target="_blank" rel="noopener"><i><span style="font-weight: 400;">programmer</span></i></a><i><span style="font-weight: 400;">, </span></i><span style="font-weight: 400;">pengetahuan mengenai teknologi ini juga penting bagi para </span><i><span style="font-weight: 400;">job seeker.</span></i></p>
+<p><span style="font-weight: 400;">Pasalnya, sekarang ini kebanyakan rekruter akan memprioritaskan kandidat yang menguasai ilmu pemrograman.</span></p>
+<p><span style="font-weight: 400;">Nah, memangnya, apa yang dimaksud dengan tipe data? Apa saja jenis-jenisnya yang perlu kamu pelajari?</span></p>
+<p><span style="font-weight: 400;">Yuk, simak paparan lengkapnya dalam rangkuman singkat Glints berikut ini!</span></p>
+<p><span style="font-weight: 400;"><div style="width: 100%; background: #f3f3f3; padding: 16px;">
+        <b>Baca Juga:</b> <a href="https://glints.com/id/lowongan/mitos-pekerjaan-programmer/">6 Mitos Seputar Karier Programmer, Ini Penjelasan dan Faktanya</a>
+    </div></span></p>
+<h2><b>Apa Itu Tipe Data?</b></h2>
+<p><span style="font-weight: 400;">Menurut laman </span><a href="https://amplitude.com/blog/data-types" target="_blank" rel="noopener"><span style="font-weight: 400;">Amplitude</span></a><span style="font-weight: 400;">, tipe data atau </span><i><span style="font-weight: 400;">data type, </span></i><span style="font-weight: 400;">adalah atribut yang terkait dengan sepotong data yang bisa memberi tahu sistem komputer cara untuk menafsirkan nilainya.</span></p>
+<p><span style="font-weight: 400;">Memahami teknologi ini memastikan bahwa data dikumpulkan dalam format yang dibutuhkan dan nilai seluruh properti seperti yang diharapkan.</span></p>
+<p><span style="font-weight: 400;">Tipe data sendiri dapat digambarkan sebagai alat yang digunakan dalam dunia </span><i><span style="font-weight: 400;">programming</span></i><span style="font-weight: 400;"> untuk menentukan tipe nilai pada suatu objek dan operasi. </span></p>
+<p><span style="font-weight: 400;">Secara khusus, ia merupakan format data </span><i><span style="font-weight: 400;">storage </span></i><span style="font-weight: 400;">yang dapat mengandung jenis atau rentang nilai tertentu. </span></p>
+<p><span style="font-weight: 400;">Saat program komputer menyimpan data dalam bentuk variabel, setiap variabel harus diterapkan tipe data tertentu.</span></p>
+<p><span style="font-weight: 400;">Tipe data dalam pemrograman komputer terdiri dari beberapa jenis yang bisa dimanfaatkan untuk menentukan nilai dari data. </span></p>
+<p><span style="font-weight: 400;">Proses definisi dari suatu variabel ini dimanfaatkan juga oleh aplikasi basis data.</span></p>
+<p><span style="font-weight: 400;">Pasalnya, bidang ini juga membutuhkan teknologi tersebut untuk proses</span><i><span style="font-weight: 400;"> inpu</span></i><span style="font-weight: 400;">t-nya. </span></p>
+<p><span style="font-weight: 400;">Contoh penerapan dari teknologi satu ini adalah perancangan program pencatatan perusahaan untuk karyawan.</span></p>
+<p><i><span style="font-weight: 400;">Programmer </span></i><span style="font-weight: 400;">bisa menggunakannya untuk pendataan nama dan penanggalan perekrutan karyawan. </span></p>
+<p><span style="font-weight: 400;"><div style="width: 100%; background: #f3f3f3; padding: 16px;">
+        <b>Baca Juga:</b> <a href="https://glints.com/id/lowongan/istilah-programming/">33 Istilah Programming yang Penting untuk Kamu Pahami</a>
+    </div></span></p>
+<h2><b>Tipe-Tipe Data</b></h2>
+<div id="attachment_101369" style="width: 610px" class="wp-caption aligncenter"><a href="https://glints.com/id/lowongan/wp-content/uploads/2022/03/pexels-pavel-danilyuk-7191175.jpg"><img aria-describedby="caption-attachment-101369" decoding="async" loading="lazy" class="size-full wp-image-101369" src="https://glints.com/id/lowongan/wp-content/uploads/2022/03/pexels-pavel-danilyuk-7191175.jpg" alt="tipe data" width="600" height="400" srcset="https://glints.com/id/lowongan/wp-content/uploads/2022/03/pexels-pavel-danilyuk-7191175.jpg 600w, https://glints.com/id/lowongan/wp-content/uploads/2022/03/pexels-pavel-danilyuk-7191175-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p id="caption-attachment-101369" class="wp-caption-text">© Pexels.com</p></div>
+<p><span style="font-weight: 400;">Sejatinya, pemahaman mengenai cara mendesain dan memrogram kode berpusat pada pengetahuan seputar tipe data yang ingin dimanipulasi.</span></p>
+<p><span style="font-weight: 400;">Pasalnya, masing-masing jenis dari teknologi ini memiliki cara kerja dan fungsi yang berbeda-beda bagi program yang sedang dirancang.</span></p>
+<p><span style="font-weight: 400;">Sebagai contoh, tipe data yang umum biasanya terdapat di sebagian besar </span><a href="https://glints.com/id/lowongan/belajar-bahasa-pemrograman/" target="_blank" rel="noopener"><span style="font-weight: 400;">bahasa pemrograman</span></a><span style="font-weight: 400;"> dan memiliki tindak serupa dari bahasa ke bahasa. </span></p>
+<p><span style="font-weight: 400;">Sementara, jenis-jenis yang sifatnya lebih kompleks atau komposit ada dan bervariasi dari satu bahasa ke bahasa lainnya.</span></p>
+<p><span style="font-weight: 400;">Nah, agar lebih jelas, berikut adalah pembahasan mengenai-tipe-tipe data yang perlu kamu ketahui. </span></p>
+<h3><b>1. </b><b><i>Integer</i></b></h3>
+<p><span style="font-weight: 400;">Tipe data pertama yang akan kamu temukan dalam dunia pemrograman adalah </span><i><span style="font-weight: 400;">integer.</span></i></p>
+<p><i><span style="font-weight: 400;">Integer </span></i><span style="font-weight: 400;">(int.) merupakan </span><i><span style="font-weight: 400;">data type </span></i><span style="font-weight: 400;">berbentuk bilangan bulat atau numerik yang umumnya digunakan untuk menyimpan angka tanpa komponen pecahan dengan rentang angka -707, 0, hingga 707. </span></p>
+<p><span style="font-weight: 400;">Menurut </span><a href="https://www.bbc.co.uk/bitesize/guides/zwmbgk7/revision/3" target="_blank" rel="noopener"><span style="font-weight: 400;">BBC</span></a><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">data type</span></i><span style="font-weight: 400;"> ini mencakup semua bilangan bulat atau bilangan yang tidak memiliki komponen pecahan.</span></p>
+<p><i><span style="font-weight: 400;">Integer</span></i><span style="font-weight: 400;"> juga biasa berisi </span><i><span style="font-weight: 400;">bit-bit</span></i><span style="font-weight: 400;"> yang ditafsirkan sebagai kekuatan signifikansi sederhana, seperti 2^0, 2^1, 2^2 dan seterusnya. </span></p>
+<p><span style="font-weight: 400;">Bilangan bulat pendek yang biasanya disimpan dengan </span><i><span style="font-weight: 400;">integer</span></i><span style="font-weight: 400;"> memiliki panjang 16 bit atau sampai 2^16 atau 65.536. </span></p>
+<h3><b>2. </b><b><i>Floating point</i></b></h3>
+<p><span style="font-weight: 400;">Tipe data selanjutnya yang sering digunakan untuk keperluan komputasi teknis adalah </span><i><span style="font-weight: 400;">floating point.</span></i></p>
+<p><span style="font-weight: 400;">Ia merupakan jenis </span><i><span style="font-weight: 400;">data type </span></i><span style="font-weight: 400;">numerik yang digunakan untuk menyimpan angka yang mungkin memiliki komponen pecahan seperti nilai moneter (707.07, 0.7, 707.00).</span></p>
+<p><span style="font-weight: 400;">Teknologi satu ini juga mengacu pada penggunaan dua kali lipat jumlah penyimpanan relatif dengan metode angka dalam kode, seperti pada kalkulator.</span></p>
+<p><span style="font-weight: 400;">Tak hanya itu, ada beberapa jenis </span><i><span style="font-weight: 400;">floating point </span></i><span style="font-weight: 400;">dalam dunia </span><i><span style="font-weight: 400;">programming,</span></i><span style="font-weight: 400;"> seperti </span><i><span style="font-weight: 400;">float</span></i><span style="font-weight: 400;"> presisi tunggal, </span><i><span style="font-weight: 400;">float</span></i><span style="font-weight: 400;"> presisi ganda, dan float presisi </span><i><span style="font-weight: 400;">quadruple.</span></i></p>
+<p><span style="font-weight: 400;">Masing-masing jenis dibedakan sesuai banyaknya penggunaan total bit, dari 24 bit, 32 bit, 53 bit, hingga yang terbesar adalah 128 bit.</span></p>
+<h3><b>3. </b><b><i>Character </i></b><b>(</b><b><i>Char</i></b><b>)</b></h3>
+<p><span style="font-weight: 400;">Melansir </span><a href="https://press.rebus.community/programmingfundamentals/chapter/data-types/" target="_blank" rel="noopener"><span style="font-weight: 400;">Rebus Community</span></a><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">character</span></i><span style="font-weight: 400;"> merupakan tipe data yang dimanfaatkan untuk menyimpan satu huruf, angka, tanda baca, simbol, atau </span><i><span style="font-weight: 400;">space </span></i><span style="font-weight: 400;">kosong. </span></p>
+<p><span style="font-weight: 400;">Umumnya, ia juga digunakan pada berbagai bahasa pemrograman di banyak komputer modern.</span></p>
+<p><i><span style="font-weight: 400;">Character </span></i><span style="font-weight: 400;">dimanfaatkan untuk menyimpan karakter alfabet dan menampilkan masing-masing karakter menggunakan kode numerik kecil.</span></p>
+<h3><b>4. </b><b><i>Boolean</i></b></h3>
+<p><i><span style="font-weight: 400;">Boolean </span></i><span style="font-weight: 400;">adalah jenis tipe data selanjutnya yang perlu kamu kuasai sebelum terjun ke dunia pemrograman.</span></p>
+<p><span style="font-weight: 400;">Jenis </span><i><span style="font-weight: 400;">data type </span></i><span style="font-weight: 400;">ini biasanya digunakan untuk mewakili nilai yang benar dan salah dalam data. </span></p>
+<p><span style="font-weight: 400;">Umumnya, nilai yang salah (</span><i><span style="font-weight: 400;">false</span></i><span style="font-weight: 400;">) dan benar (</span><i><span style="font-weight: 400;">true</span></i><span style="font-weight: 400;">) direpresentasikan dengan angka 0 (</span><i><span style="font-weight: 400;">false</span></i><span style="font-weight: 400;">) dan 1 (</span><i><span style="font-weight: 400;">true</span></i><span style="font-weight: 400;">).</span></p>
+<p><i><span style="font-weight: 400;">Boolean</span></i><span style="font-weight: 400;"> sendiri hanya bisa merepresentasikan dua nilai dengan pertimbangan seperti hubungan angka yang lebih kecil atau lebih besar.</span></p>
+<h3><b>5. </b><b><i>Array</i></b></h3>
+<p><i><span style="font-weight: 400;">Array </span></i><span style="font-weight: 400;">adalah tipe data berbentuk daftar yang mampu mengarsip sejumlah elemen dalam urutan tertentu dari seluruh data yang serupa. </span></p>
+<p><span style="font-weight: 400;">Jenis</span><i><span style="font-weight: 400;"> data type</span></i><span style="font-weight: 400;"> ini memiliki banyak elemen atau nilai struktur data yang diambil serta diterapkan menggunakan indeks integer seperti 0, 1, 3, 4, dan seterusnya.</span></p>
+<p><span style="font-weight: 400;">Sebagai contoh, program aplikasi pengukur kalori dirancang dengan menyimpan lebih dari satu elemen dalam bentuk jenis olahraga yang dilakukan. </span></p>
+<p><span style="font-weight: 400;">Dalam variabel yang berbentuk jenis olahraga ini akan diindeks empat nilai berupa 0 (bola basket), 1 (renang), 3 (</span><i><span style="font-weight: 400;">jogging</span></i><span style="font-weight: 400;">), dan 4 (bersepeda).</span></p>
+<p><span style="font-weight: 400;">Berdasarkan hal tersebut, panjang </span><i><span style="font-weight: 400;">array</span></i><span style="font-weight: 400;"> adalah 4 karena mencakup empat elemen olahraga yang berbeda.</span></p>
+<div id="attachment_101368" style="width: 610px" class="wp-caption aligncenter"><a href="https://glints.com/id/lowongan/wp-content/uploads/2022/03/asian-software-developer-coming-desk-sitting-down-holding-laptop-with-coding-interface-cyber-security-agency-programer-getting-ready-write-code-with-colleague-working-background.jpg"><img aria-describedby="caption-attachment-101368" decoding="async" loading="lazy" class="size-full wp-image-101368" src="https://glints.com/id/lowongan/wp-content/uploads/2022/03/asian-software-developer-coming-desk-sitting-down-holding-laptop-with-coding-interface-cyber-security-agency-programer-getting-ready-write-code-with-colleague-working-background.jpg" alt="tipe data" width="600" height="337" srcset="https://glints.com/id/lowongan/wp-content/uploads/2022/03/asian-software-developer-coming-desk-sitting-down-holding-laptop-with-coding-interface-cyber-security-agency-programer-getting-ready-write-code-with-colleague-working-background.jpg 600w, https://glints.com/id/lowongan/wp-content/uploads/2022/03/asian-software-developer-coming-desk-sitting-down-holding-laptop-with-coding-interface-cyber-security-agency-programer-getting-ready-write-code-with-colleague-working-background-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p id="caption-attachment-101368" class="wp-caption-text">© Pexels.com</p></div>
+<h3><b>6. </b><b><i>String</i></b></h3>
+<p><span style="font-weight: 400;">Jenis tipe data lainnya yang sering dimanfaatkan dalam dunia </span><i><span style="font-weight: 400;">programming </span></i><span style="font-weight: 400;">adalah </span><i><span style="font-weight: 400;">string.</span></i></p>
+<p><span style="font-weight: 400;">Menurut </span><a href="https://amplitude.com/blog/data-types" target="_blank" rel="noopener"><span style="font-weight: 400;">Amplitude</span></a><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">string </span></i><span style="font-weight: 400;">merupakan jenis </span><i><span style="font-weight: 400;">data type</span></i><span style="font-weight: 400;"> yang sering dianggap paling populer.</span></p>
+<p><span style="font-weight: 400;">Ia adalah kumpulan dari urutan karakter dan data yang paling umum digunakan untuk menyimpan teks.</span></p>
+<p><span style="font-weight: 400;">Selain itu, </span><i><span style="font-weight: 400;">string</span></i><span style="font-weight: 400;"> juga dapat menyertakan angka dan simbol, namun ia akan selalu diperlakukan sebagai teks.</span></p>
+<p><span style="font-weight: 400;">Sebagai contoh, nomor telepon biasanya disimpan sebagai </span><i><span style="font-weight: 400;">string </span></i><span style="font-weight: 400;">(+1-999-666-3333), tetapi, ia juga dapat disimpan sebagai bilangan bulat (9996663333).</span></p>
+<h3>7. <i>Enumerated </i>atau <em>enum</em></h3>
+<p>Tipe data ini mengandung sekumpulan konstanta, yang berarti nilainya bisa ditentukan oleh dirimu sendiri.</p>
+<p>Tentunya, <em>enumerated data</em> tergolong sebagai tipe data bentukan.</p>
+<p>Ada pun nilai dari jenis data <em>enumerated </em>dapat berbentuk teks maupun numerik.</p>
+<p>Sebagai contoh, kamu bisa membuat <em>data type </em>nama hari yang berbentuk seperti ini;</p>
+<blockquote><p>enum hari {SENIN, SELASA, RABU, KAMIS, JUMAT, SABTU, MINGGU}</p></blockquote>
+<p>Di sini, konstanta tidak diberi nilai yang mendampinginya. Hal ini otomatis membuat setiap konstanta yang terkandung dalam enum hari akan bernilai seperti ini;</p>
+<ul>
+<li>SENIN = 0</li>
+<li>SELASA = 1</li>
+<li>RABU = 2</li>
+<li>KAMIS = 3</li>
+<li>JUMAT = 4</li>
+<li>SABTU = 5</li>
+<li>MINGGU = 6</li>
+</ul>
+<h3>8. <em>Date</em></h3>
+<p><em>Data type </em>ini menyimpan tanggal kalender dengan informasi <em>programming </em>lainnya.</p>
+<p><em>Date </em>adalah kombinasi antara bentuk integer dan numerik.</p>
+<p>Karena <em>date </em>biasanya merupakan nilai integer, beberapa program bisa menyimpan operasi matematika dasar seperti menghitung hari sebelum atau setelah <em>event </em>tertentu.</p>
+<h3>9. <em>Nothing</em></h3>
+<p>Menurut <a href="https://www.indeed.com/career-advice/career-development/data-type-examples">Indeed</a>, tipe data ini menunjukkan bahwa terdapat sebuah kode yang tidak memiliki nilai. Hal tersebut menunjukkan bahwa;</p>
+<ul>
+<li>ada kode yang tertinggal</li>
+<li>seorang <em>programmer </em>salah memulai kode</li>
+<li>ada nilai yang tidak sesuai dengan logika yang ditentukan</li>
+</ul>
+<p>Jenis data ini biasanya juga disebut sebagai <em>nullable</em>.</p>
+<h3>10. <em>Void</em></h3>
+<p>Seperti <em>data type </em>sebelumnya, <em>void </em>memberi tahu <em>programmer </em>bahwa ada nilai yang tidak bisa diproses kode.</p>
+<p><em>Data type </em>ini memberi tahu <em>user </em>bahwa kode tidak bisa memberi sebuah respons.</p>
+<p>Biasanya, <em>programmer </em>akan mendapatkan <em>data type </em>ini di tahap awal <em>system testing</em> ketika belum ada respons yang diprogram untuk langkah selanjutnya.</p>
+<p><span style="font-weight: 400;"><div style="width: 100%; background: #f3f3f3; padding: 16px;">
+        <b>Baca Juga:</b> <a href="https://glints.com/id/lowongan/tren-bahasa-pemrograman-2022/">8 Bahasa Pemrograman yang Wajib Dikuasai di 2022 untuk Melejitkan Karier</a>
+    </div></span></p>
+<p><span style="font-weight: 400;">Itulah pemaparan singkat Glints mengenai tipe data, mulai dari pengertian dan jenis-jenisnya.</span></p>
+<p><span style="font-weight: 400;">Intinya, </span><i><span style="font-weight: 400;">data type </span></i><span style="font-weight: 400;">merupakan atribut dari sepotong data yang mampu menginformasikan sistem komputer cara untuk menafsirkan nilainya.</span></p>
+<p><span style="font-weight: 400;">Menguasai teknologi ini akan memastikan bahwa data dikumpulkan dalam format yang dibutuhkan dan menilai properti seperti yang diharapkan.</span></p>
+<p><span style="font-weight: 400;">Maka dari itu, sebelum terjun ke dunia </span><i><span style="font-weight: 400;">programming, </span></i><span style="font-weight: 400;">pastikan kamu sudah memahami </span><i><span style="font-weight: 400;">data type </span></i><span style="font-weight: 400;">dan jenis-jenisnya secara saksama, ya.</span></p>
+<p><span style="font-weight: 400;">Nah, selain penjelasan di atas, kamu bisa raih ragam informasi yang serupa pada kanal IT Glints Blog.</span></p>
+<p><span style="font-weight: 400;">Di sana, tersedia pembahasan mengenai berbagai istilah dan </span><i><span style="font-weight: 400;">tools </span></i><span style="font-weight: 400;">dunia pemrograman lainnya yang sudah Glints siapkan untukmu.</span></p>
+<p><span style="font-weight: 400;">Jadi, tunggu apa lagi? Yuk, langsung <a href="https://glints.com/id/lowongan/category/bidang-profesi/tech-data/it/#.YjBYC3pBzrc" target="_blank" rel="noopener">baca kumpulan artikelnya</a> sekarang juga. Gratis!</span></p>
+<ul class='dxsources'><li class='dxsources-item'><a id='dxs-1' class='dxsources-link' href='https://www.bbc.co.uk/bitesize/guides/zwmbgk7/revision/3'><strong class='dxsources-name'>Programming basics</strong></a> </li><li class='dxsources-item'><a id='dxs-2' class='dxsources-link' href='https://amplitude.com/blog/data-types'><strong class='dxsources-name'>What Are Data Types and Why Are They Important?</strong></a> </li><li class='dxsources-item'><a id='dxs-3' class='dxsources-link' href='https://press.rebus.community/programmingfundamentals/chapter/data-types/'><strong class='dxsources-name'>Data Types</strong></a> </li><li class='dxsources-item'><a id='dxs-4' class='dxsources-link' href='https://www.indeed.com/career-advice/career-development/data-type-examples'><strong class='dxsources-name'>10 Data Types (With Definitions and Examples)</strong></a> </li></ul><!-- Rate my Post Plugin --><div  class="rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--101366"  data-post-id="101366">    <!-- Rating widget -->  <div class="rmp-rating-widget js-rmp-rating-widget">          <p class="rmp-heading rmp-heading--title">        Seberapa bermanfaat artikel ini?      </p>              <p class="rmp-heading rmp-heading--subtitle">        Klik salah satu bintang untuk menilai.      </p>        <div class="rmp-rating-widget__icons">      <ul class="rmp-rating-widget__icons-list js-rmp-rating-icons-list">                  <li class="rmp-rating-widget__icons-list__icon js-rmp-rating-item" data-descriptive-rating="Tidak bermanfaat" data-value="1">            <i class="js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight"></i>          </li>                  <li class="rmp-rating-widget__icons-list__icon js-rmp-rating-item" data-descriptive-rating="Kurang bermanfaat" data-value="2">            <i class="js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight"></i>          </li>                  <li class="rmp-rating-widget__icons-list__icon js-rmp-rating-item" data-descriptive-rating="Lumayan bermanfaat" data-value="3">            <i class="js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight"></i>          </li>                  <li class="rmp-rating-widget__icons-list__icon js-rmp-rating-item" data-descriptive-rating="Bermanfaat" data-value="4">            <i class="js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight"></i>          </li>                  <li class="rmp-rating-widget__icons-list__icon js-rmp-rating-item" data-descriptive-rating="Sangat bermanfaat" data-value="5">            <i class="js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star "></i>          </li>              </ul>    </div>    <p class="rmp-rating-widget__hover-text js-rmp-hover-text"></p>    <button class="rmp-rating-widget__submit-btn rmp-btn js-submit-rating-btn">      Kirim Penilaian    </button>    <p class="rmp-rating-widget__results js-rmp-results ">      Nilai rata-rata <span class="rmp-rating-widget__results__rating js-rmp-avg-rating">4.2</span> / 5. Jumlah vote: <span class="rmp-rating-widget__results__votes js-rmp-vote-count">25</span>    </p>    <p class="rmp-rating-widget__not-rated js-rmp-not-rated rmp-rating-widget__not-rated--hidden">      Belum ada penilaian, jadi yang pertama menilai artikel ini.    </p>    <p class="rmp-rating-widget__msg js-rmp-msg"></p>  </div>  <!--Structured data -->  <script type="application/ld+json">{  "@context": "http://schema.org",  "@type": "CreativeWorkSeason",  "aggregateRating": {    "@type": "AggregateRating",    "bestRating": "5",    "ratingCount": "25",    "ratingValue": "4.2"  },  "image": "https://glints.com/id/lowongan/wp-content/uploads/2022/03/learning-programming-language.jpg",  "name": "10 Tipe Data yang Sering Dipakai Programmer di 2022",  "description": "10 Tipe Data yang Sering Dipakai Programmer di 2022"}</script>        <!-- Feedback widget -->    <div class="rmp-feedback-widget js-rmp-feedback-widget">  <p class="rmp-heading rmp-heading--title">    We are sorry that this post was not useful for you!  </p>  <p class="rmp-heading rmp-heading--subtitle">    Let us improve this post!  </p>    <div class="rmp-feedback-widget__container">    <p class="rmp-feedback-widget__text">      Tell us how we can improve this post?    </p>    <textarea class="rmp-feedback-widget__input js-rmp-feedback-input" rows="5" id="feedback-text"></textarea>    <button type="button" class="rmp-feedback-widget__btn rmp-btn rmp-btn--large js-rmp-feedback-button">      Submit Feedback    </button>    <div class="rmp-feedback-widget__loader js-rmp-feedback-loader">      <div></div><div></div><div></div>    </div>    <p class="rmp-feedback-widget__msg js-rmp-feedback-msg"></p>  </div>  </div>    </div><!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://glints.com/id/lowongan/tipe-data/"></div><!-- AddThis Share Buttons generic via filter on the_content --><!-- AddThis Related Posts below via filter on the_content --><div class="at-below-post-recommended addthis_tool" ></div><!-- AddThis Related Posts generic via filter on the_content -->        </div>
+        <hr style="margin-top: 48px; margin-bottom: 48px; border-bottom: solid 1px #c6c6c6;" />
+        <div class="tag">
+                            <span>
+                    <a href=' https://glints.com/id/lowongan/tags?tag=beginner' target="_blank"> beginner </a>
+                </span>
+                            <span>
+                    <a href=' https://glints.com/id/lowongan/tags?tag=it' target="_blank"> IT </a>
+                </span>
+                            <span>
+                    <a href=' https://glints.com/id/lowongan/tags?tag=programming' target="_blank"> programming </a>
+                </span>
+                            <span>
+                    <a href=' https://glints.com/id/lowongan/tags?tag=tipe-data' target="_blank"> tipe data </a>
+                </span>
+                    </div>
+                <div class="comment">
+            
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3><form action="https://glints.com/id/lowongan/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='101366' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4c9e3b70e8" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="171"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	        </div>
+            </div>
+</div>
+<div id="related-article">
+    <h3>Artikel Terkait</h3>
+    <ul>
+                    <a href='https://glints.com/id/lowongan/pdf-ke-powerpoint/' target='_blank'>
+                <li class="carouselItem">
+                    <div class="frame" style="background-image: url('https://glints.com/id/lowongan/wp-content/uploads/2021/06/business-man-having-idea-working-desk-1024x683.jpg'); background-size: cover; background-position: center center;"></div>
+                    <i>
+                        Dunia Kerja                    </i>
+                    <b>
+                        4 Cara Ubah File PDF ke PPT secara Online dan Offline                    </b>
+                    <p>
+                                            </p>
+                    <div class="author">
+                        <span>
+                            Andre Oliver                        </span>
+                        <span>
+                            17 Mei 2022                        </span>
+                    </div>
+                </li>
+            </a>
+                    <a href='https://glints.com/id/lowongan/edit-pdf/' target='_blank'>
+                <li class="carouselItem">
+                    <div class="frame" style="background-image: url('https://glints.com/id/lowongan/wp-content/uploads/2021/04/happy-smiling-asian-young-business-man-glasses-using-cell-phone-laughing-working-table-with-laptop-white-wall-1024x683.jpg'); background-size: cover; background-position: center center;"></div>
+                    <i>
+                        Dunia Kerja                    </i>
+                    <b>
+                        5 Cara Mudah untuk Edit PDF secara Online dan Offline                    </b>
+                    <p>
+                                            </p>
+                    <div class="author">
+                        <span>
+                            Andre Oliver                        </span>
+                        <span>
+                            16 Mei 2022                        </span>
+                    </div>
+                </li>
+            </a>
+                    <a href='https://glints.com/id/lowongan/stres-saat-commuting/' target='_blank'>
+                <li class="carouselItem">
+                    <div class="frame" style="background-image: url('https://glints.com/id/lowongan/wp-content/uploads/2020/08/20887-1.jpg'); background-size: cover; background-position: center center;"></div>
+                    <i>
+                        Dunia Kerja                    </i>
+                    <b>
+                        10 Tips Mengatasi Stres saat Commuting atau Perjalanan ke Kantor                    </b>
+                    <p>
+                                            </p>
+                    <div class="author">
+                        <span>
+                            Andre Oliver                        </span>
+                        <span>
+                            15 Mei 2022                        </span>
+                    </div>
+                </li>
+            </a>
+                    <a href='https://glints.com/id/lowongan/podcast-untuk-fresh-graduate/' target='_blank'>
+                <li class="carouselItem">
+                    <div class="frame" style="background-image: url('https://glints.com/id/lowongan/wp-content/uploads/2020/07/10993.jpg'); background-size: cover; background-position: center center;"></div>
+                    <i>
+                        Dunia Kerja                    </i>
+                    <b>
+                        6 Rekomendasi Podcast yang Perlu Disimak oleh Fresh Graduate                    </b>
+                    <p>
+                                            </p>
+                    <div class="author">
+                        <span>
+                            Andre Oliver                        </span>
+                        <span>
+                            15 Mei 2022                        </span>
+                    </div>
+                </li>
+            </a>
+            </ul>
+</div>
+<div id="subscribe-popup-mobile">
+    <div id="popup-subscribe" class="popup-bg">
+    <div class="body">
+        <i class="popup-close fas fa-times" style="float: right; font-size: 20px;"></i>
+        <h5>Langganan untuk dapatkan info konten karier terbaru di emailmu</h5>
+        <input type="email" placeholder="Alamat email" class="email" />
+        <button class="do-subscribe-mobile">mulai berlangganan</button>
+    </div>
+</div>
+<style>
+    #popup-subscribe {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.64);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 30;
+    }
+
+    #popup-subscribe .body {
+        padding: 32px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        background: white;
+        text-align: center;
+    }
+
+    #popup-subscribe .body h5 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        margin: 0;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #popup-subscribe .body input {
+        padding: 13px 15px;
+        border: solid 2px #777;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        width: 90%;
+        margin-top: 24px;
+    }
+
+    #popup-subscribe .body button {
+        background: #017eb7;
+        padding: 10px 20px;
+        color: white;
+        text-transform: uppercase;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        border: none;
+        margin-top: 24px;
+    }
+
+    @media screen and (max-width: 1259px) {
+        #popup-subscribe .body {
+            width: 80%;
+        }
+    }
+
+    @media screen and (min-width: 1260px) {
+        #popup-subscribe .body {
+            width: 432px;
+        }
+    }
+</style></div>
+<div id="subscribe-popup-success-mobile">
+    <div id="div-FAC394EB-mobile" class="popup-bg">
+    <div class="body">
+        <i class="popup-close fas fa-times" style="float: right; font-size: 20px; color: #000;"></i>
+        <i class="fas fa-check-circle"></i>
+        <h5>Terima kasih sudah berlangganan! Nantikan info konten terbaru Glints di emailmu.</h5>
+        <button class="popup-close">tutup</button>
+    </div>
+</div>
+<style>
+    #div-FAC394EB-mobile {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.64);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+
+    #div-FAC394EB-mobile .body {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        background: white;
+        text-align: center;
+    }
+
+    #div-FAC394EB-mobile i {
+        color: #93bd49;
+        font-size: 40px;
+    }
+
+    #div-FAC394EB-mobile .body h5 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+        width: 80%;
+        color: #93bd49;
+        margin-top: 16px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #div-FAC394EB-mobile .body input {
+        padding: 13px 15px;
+        border: solid 2px #777;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        width: 90%;
+        margin-top: 24px;
+    }
+
+    #div-FAC394EB-mobile .body button {
+        background: white;
+        padding: 10px 20px;
+        color: #c6c6c6;
+        text-transform: uppercase;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        border: solid 2px #c6c6c6;
+        margin-top: 24px;
+    }
+
+    @media screen and (max-width: 1259px) {
+        #div-FAC394EB-mobile .body {
+            width: 80%;
+            padding: 16px;
+        }
+    }
+
+    @media screen and (min-width: 1260px) {
+        #div-FAC394EB-mobile .body {
+            width: 432px;
+            padding: 32px;
+        }
+    }
+</style></div>
+<div id="subscribe-popup-failed-mobile">
+    <div id="div-07B9CD0E-mobile" class="popup-bg">
+    <div class="body">
+        <i class="popup-close fas fa-times" style="float: right; font-size: 20px; color: #000;"></i>
+        <h5>Maaf, permintaanmu tidak bisa diproses. Silakan coba lagi.</h5>
+        <button class="popup-close">tutup</button>
+    </div>
+</div>
+<style>
+    #div-07B9CD0E-mobile {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.64);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+
+    #div-07B9CD0E-mobile .body {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        background: white;
+        text-align: center;
+    }
+
+    #div-07B9CD0E-mobile i {
+        color: #93bd49;
+        font-size: 40px;
+    }
+
+    #div-07B9CD0E-mobile .body h5 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+        width: 80%;
+        margin-top: 16px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #div-07B9CD0E-mobile .body input {
+        padding: 13px 15px;
+        border: solid 2px #777;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        width: 90%;
+        margin-top: 24px;
+    }
+
+    #div-07B9CD0E-mobile .body button {
+        background: white;
+        padding: 10px 20px;
+        color: #c6c6c6;
+        text-transform: uppercase;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        border: solid 2px #c6c6c6;
+        margin-top: 24px;
+    }
+
+    @media screen and (max-width: 1259px) {
+        #div-07B9CD0E-mobile .body {
+            width: 80%;
+            padding: 16px;
+        }
+    }
+
+    @media screen and (min-width: 1260px) {
+        #div-07B9CD0E-mobile .body {
+            width: 432px;
+            padding: 32px;
+        }
+    }
+</style></div>
+<div id="footer">
+    <div class="main">
+        <img src="https://glints.com/id/lowongan/wp-content/themes/glint-blog-wp/assets/logo-white.svg" class="logo" width="63" height="50">
+        <div class="footer-cta">
+            <button class="blue subscribe">berlangganan</button>
+            <a href="https://glints.com/id">
+                <button class="outline-white">cari lowongan</button>
+            </a>
+        </div>
+    </div>
+    <div class="list">
+        <h5>Kategori Topik</h5>
+        <div class="menu-footer-kategori-topik-container"><ul id="menu-footer-kategori-topik" class="menu"><li id="menu-item-60047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60047"><a href="https://glints.com/id/lowongan/category/tips-karier/">Tips Karier</a></li>
+<li id="menu-item-60048" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-60048"><a href="https://glints.com/id/lowongan/category/bidang-profesi/">Bidang Profesi</a></li>
+<li id="menu-item-84008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84008"><a href="https://glints.com/id/lowongan/category/konten-eksklusif/">Konten Eksklusif</a></li>
+<li id="menu-item-60049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60049"><a href="https://glints.com/id/lowongan/category/dari-glints/kabar-glints/">Kabar Glints</a></li>
+</ul></div>    </div>
+    <div class="list">
+        <h5>Media Sosial</h5>
+        <div class="menu-footer-media-sosial-container"><ul id="menu-footer-media-sosial" class="menu"><li id="menu-item-60050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60050"><a href="https://www.facebook.com/glintsindonesia/">Facebook</a></li>
+<li id="menu-item-60051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60051"><a href="https://twitter.com/glintsid">Twitter</a></li>
+<li id="menu-item-60052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60052"><a href="https://www.instagram.com/glintsid/">Instagram</a></li>
+<li id="menu-item-60053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60053"><a href="https://www.linkedin.com/company/glints">LinkedIn</a></li>
+</ul></div>    </div>
+    <div class="list">
+        <h5>CARI KERJA BERDASARKAN</h5>
+        <div class="menu-footer-solusi-glints-container"><ul id="menu-footer-solusi-glints" class="menu"><li id="menu-item-117053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117053"><a href="https://glints.com/id/browse/location">Lokasi</a></li>
+<li id="menu-item-117054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117054"><a href="https://glints.com/id/browse/company">Nama Perusahaan</a></li>
+<li id="menu-item-117055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117055"><a href="https://glints.com/id/browse/category">Kategori</a></li>
+<li id="menu-item-117056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117056"><a href="https://glints.com/id/browse/job-role">Posisi</a></li>
+<li id="menu-item-117057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117057"><a href="https://glints.com/id/browse/query">Paling Banyak Dicari</a></li>
+</ul></div>    </div>
+    <div class="list">
+        <h5>TAMBAH ILMU & SKILL</h5>
+        <div class="menu-footer-tambah-ilmu-skill-container"><ul id="menu-footer-tambah-ilmu-skill" class="menu"><li id="menu-item-116971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116971"><a href="https://glints.com/id/expert-class/search?keyword=copywriting">Kelas Copywriting</a></li>
+<li id="menu-item-117049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117049"><a href="https://glints.com/id/expert-class/search?keyword=public%20speaking">Kelas Public Speaking</a></li>
+<li id="menu-item-117050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117050"><a href="https://glints.com/id/expert-class/search?keyword=influencer">Kelas Influencer</a></li>
+<li id="menu-item-117051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117051"><a href="https://glints.com/id/expert-class/search?keyword=seo">Kelas SEO</a></li>
+<li id="menu-item-117052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117052"><a href="https://glints.com/id/expert-class/category/marketing/6e8e546d-c827-4b5b-9c30-bccf47577b69">Kelas Marketing</a></li>
+</ul></div>    </div>
+</div>
+<script>
+    $('#footer .list ul li a').attr('target', '_blank');
+</script>
+<style>
+    #footer {
+        display: grid;
+        background: black;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #footer .logo {
+        height: 50px;
+    }
+
+    #footer button {
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #footer .list {
+        white-space: nowrap;
+    }
+
+    #footer .list h5 {
+        font-weight: bold;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin: 0;
+    }
+
+    #footer .list ul {
+        list-style: none;
+        margin-left: -40px;
+    }
+
+    #footer .list ul li {
+        margin-bottom: 16px;
+    }
+
+    #footer .list ul li a {
+        text-decoration: none;
+        color: #777;
+        font-size: 14px;
+    }
+
+    #footer .blue {
+        font-weight: bold;
+        font-size: 14px;
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        background: #017eb7;
+        border: 2px solid #017eb7;
+        color: white;
+        text-transform: uppercase;
+        margin-top: 24px;
+        cursor: pointer;
+    }
+
+    #footer .blue:hover {
+        opacity: 0.64;
+    }
+
+    #footer .outline-white {
+        font-weight: bold;
+        font-size: 14px;
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        background: black;
+        border: 2px solid white;
+        margin-right: 12px;
+        color: white;
+        text-transform: uppercase;
+        margin-top: 24px;
+        cursor: pointer;
+    }
+
+    #footer .outline-white:hover {
+        background: white;
+        color: black;
+    }
+
+    @media screen and (max-width: 599px) {
+      #footer {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 1rem;
+          padding: 16px;
+          padding-bottom: 48px;
+      }
+
+      #footer .main {
+          grid-column: span 2 / span 2;
+      }
+      
+      #footer .main .footer-cta {
+          margin-bottom: 32px;
+      }
+
+      #footer .list {
+          width: 50%;
+      }
+    }
+    
+    @media screen and (min-width: 600px) and (max-width: 1259px) {
+      #footer {
+          grid-template-columns: repeat(4, minmax(0, 1fr));
+          gap: 1rem;
+          padding: 16px;
+          padding-top: 32px;
+          padding-bottom: 48px;
+      }
+      
+      #footer .main {
+          grid-column: span 1 / span 1;
+      }
+
+      #footer .main .footer-cta {
+          margin-bottom: 32px;
+      }
+
+      #footer .blue {
+          margin-right: 4px;
+      }
+
+      #footer .outline-white {
+          margin-right: 0px;
+      }
+    }
+
+    @media screen and (min-width: 1260px) {
+      #footer {
+          grid-template-columns: repeat(5, minmax(0, 1fr));
+          padding: 40px;
+      }
+
+      #footer .main .footer-cta {
+          display: inline-block;
+      }
+
+      #footer .blue {
+          margin-right: 12px;
+      }
+
+      #footer .outline-white {
+          margin-right: 12px;
+      }
+    }
+</style>
+<script>
+    const gotoPage = (link) => window.location.href = link
+    const jump = (h) => {
+        let top = document.getElementById(h).offsetTop
+        window.scrollTo({left: 0, top: top - 100, behavior: 'smooth'})
+    }
+
+    $(document).ready(() => {
+        $('#article .content a').attr('target', '_blank');
+        // sources
+        if ($('#article .dxsources-item a').length > 0) {
+            $('#article .content .dxsources').before('<h3 style="margin-bottom:-16px">Sumber</h3>')
+        }
+        // table of content
+        if ($('#article .content h2').length < 1) {
+            $('#article .toc').hide();
+        }
+        $('#article .content h2').each(function(index, item) {
+            const text = $(item).text();
+            const link = text.replace(/\s+/g, '-').replace(/\?/g, '').toLowerCase();
+            
+            $(item).attr('id', link)
+            const el = `
+            <li>
+                <a href="#${link}">
+                    ${$(item).text()}
+                </a>
+            </li>
+            `
+            $('#article .toc ol').append(el)
+        })
+        $('#article .dxsources-item a').attr('target', '_blank');
+        $('#article .frame').each(function(index, el) {
+            $(el).Lazy();
+        })
+        $('#article img').each(function(index, el) {
+            $(el).Lazy();
+        })
+        $('#article iframe').each(function(index, el) {
+            $(el).Lazy();
+        })
+        // reverse category
+        let breadcrumbs = []
+        $('#article .breadcrumb a').each(function(index, el) {
+            breadcrumbs.push($(el)[0].outerHTML)
+        })
+        // breadcrumbs = breadcrumbs.reverse()
+        $('#article .breadcrumb').html(breadcrumbs.join(' <i class="fas fa-chevron-right" style="color: #c6c6c6"></i> '))
+    })
+</script>
+<style>
+    #article {
+        padding-top: 64px;
+    }
+
+    #article .frame {
+        width: 100%;
+        height: 239px;
+        overflow: hidden;
+    }
+
+    #article .frame img {
+        width: 100%;
+    }
+
+    #article .breadcrumb {
+        margin-top: 16px;
+    }
+
+    #article .breadcrumb a {
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        color: #c6c6c6;
+        text-decoration: none;
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+
+    #article a {
+        color: black;
+    }
+
+    #article .breadcrumb a:last-child {
+        color: #017eb7;
+    }
+
+    #article .post-container {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 16px;
+        position: relative;
+    }
+
+    #article .last-update {
+        margin-top: 24px;
+    }
+
+    #article .profile {
+        margin-top: 32px;
+    }
+    
+    #article .profile a {
+        color: black;
+    }
+
+    #article .profile .frame {
+        width: 80px;
+        height: 80px;
+        overflow: hidden;
+        border-radius: 80px;
+        display: inline-block;
+        margin-right: 12px;
+        vertical-align: top;
+    }
+
+    #article .description {
+        display: inline-block;
+        vertical-align: middle;
+        width: 70%;
+    }
+
+    #article .profile b {
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        display: block;
+    }
+
+    #article .profile i {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-size: 14px;
+        color: #777;
+        display: block;
+    }
+
+    #article h1 {
+        margin: 0;
+        margin-top: 24px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 28px !important;
+        font-weight: bold;
+    }
+
+    #article .last-update {
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        color: #777;
+    }
+
+    #article .last-update .reading-time {
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        color: #777;
+    }
+
+    #article .toc {
+        background: #f3f3f3;
+        padding: 16px;
+        margin-top: 48px;
+    }
+
+    #article .toc h2 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    #article .toc ol {
+        margin-left: -40px;
+        counter-reset: item;
+        list-style: none;
+    }
+
+    #article .toc ol li {
+        margin-bottom: 16px;
+        color: #017eb7;
+        cursor: pointer;
+        font-family: 'PT Serif', serif;
+    }
+
+    #article .toc ol li::before {
+        content: counter(item);
+        counter-increment: item;
+        color: #ec272b;
+        margin-right: 12px;
+    }
+
+    #article .excerpt {
+        font-family: 'PT Serif', serif;
+        margin-top: 48px;
+        font-size: 16px;
+        line-height: 2;
+    }
+
+    #article .content {
+        font-family: 'PT Serif', serif;
+        font-size: 18px;
+    }
+
+    #article .content h2 {
+        margin-bottom: 24px;
+    }
+
+    #article .content ul {
+        line-height: 200%;
+    }
+
+    #article .content ol {
+        line-height: 200%;
+    }
+
+    #article .content form label {
+        margin-bottom: 16px;
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 14px !important;
+        color: black !important;
+    }
+
+    #article .content form button {
+        border-radius: 0px !important;
+        border: solid 2px #000 !important;
+        padding: 10px !important;
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 14px !important;
+        background: #fff240;
+    }
+
+    #article .content .Total_Soft_Poll_1_Ans_Check_Div {
+        padding: 10px;
+        border: solid 2px #000000;
+        width: 100%;
+    }
+
+    #article .content .Total_Soft_Poll_1_Ans_Check_Div label span:nth-child(2) {
+        background-color: #017eb7 !important;
+    }
+
+    #article .tag span {
+        padding: 8px 16px;
+        background: #fff240;
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        margin-right: 8px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+
+    #article .tag span a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #article .comment {
+        margin-top: 24px;
+        padding: 16px;
+        background: #f3f3f3;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #article .comment a {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+    #article .comment h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    #article .comment .commentlist {
+        list-style: none;
+        margin-left: -40px;
+    }
+
+    #article .comment .commentlist li {
+        background: white;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+    }
+
+    #article .comment .commentlist li .comment-author {
+        display: block;
+    }
+
+    #article .comment .commentlist li .comment-author .fn {
+        float: left;
+        display: block;
+    }
+
+    #article .comment .commentlist li .comment-author .fn a {
+        text-decoration: none;
+    }
+
+    #article .comment .commentlist li .comment-author img {
+        width: 32px;
+        height: 32px;
+        border-radius: 32px;
+        float: left;
+        margin-right: 12px;
+    }
+
+    #article .comment .commentlist li .comment-author .says {
+        display: none;
+    }
+
+    #article .comment .commentlist li .comment-meta.commentmetadata a {
+        font-size: 12px;
+        color: #777;
+        text-decoration: none;
+        display: block;
+        float: right;
+    }
+
+    #article .comment .comment-form-comment label {
+        display: none;
+    }
+
+    #article .comment .comment-form-comment textarea {
+        width: 100%;
+        border: 2px solid #000;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #article .comment .comment-form label {
+        padding-top: 8px;
+        padding-bottom: 8px;
+        display: inline-block;
+    }
+
+    #article .comment .comment-form-cookies-consent {
+        margin-top: 32px;
+    }
+
+    #article .comment input[type=text] {
+        border-radius: 0px;
+        border: 2px solid #000;
+        width: 80%;
+        float: right;
+        padding: 8px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #article .comment input[type=submit] {
+        border-radius: 0px;
+        border: solid 2px #000;
+        padding: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    /* related articles */
+    #related-article {
+        padding-left: 16px;
+    }
+
+    #related-article h3 {
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        margin-top: 48px;
+        text-align: left;
+    }
+
+    #related-article ul {
+        list-style: none;
+        margin-left: -40px;
+    }
+
+    #div-5E650E0E ul a li {
+        text-decoration: none;
+        color: black;
+    }
+
+    #related-article .carouselItem {
+        width: 100%;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 16px;
+        margin-bottom: 16px;
+    }
+
+    #related-article .carouselItem:nth-child(4n) {
+        margin-right: 0px;
+    }
+
+    #related-article .carouselItem .frame {
+        width: 128px;
+        height: 128px;
+        overflow: hidden;
+        float: left;
+        margin-right: 16px;
+    }
+
+    #div-5E650E0E .carouselItem .section-two {
+        display: inline-block;
+        width: 50%;
+    }
+
+    #related-article .carouselItem i {
+        display: block;
+        color: #0baeec;
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    #related-article .carouselItem b {
+        display: block;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        margin-top: 12px;
+    }
+
+    #related-article .carouselItem p {
+        display: none;
+    }
+
+    #related-article .carouselItem .author {
+        margin-left: 144px;
+    }
+
+    #related-article .carouselItem span:nth-child(1) {
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+    }
+
+    #related-article .carouselItem span:nth-child(2) {
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+        color: #777;
+        margin-left: 8px;
+    }
+
+    @media screen and (max-width: 599px) {
+      #article .post-container img {
+        width: 100% !important;
+        height: auto !important;
+      }
+
+      #article .post-container .wp-caption {
+          width: 100% !important;
+      }
+
+      #article .post-container .wp-caption img {
+          width: 100% !important;
+          height: auto !important;
+      }
+
+      #article .post-container .wp-caption a img {
+          width: 100% !important;
+          height: auto !important;
+      }
+    }
+
+    @media screen and (min-width: 600px) {
+      #article .frame {
+          width: 800px;
+          height: 400px;
+          margin: auto;
+      }
+
+      #article .post-container {
+          width: 800px;
+          margin-left: auto;
+          margin-right: auto;
+          padding: 0;
+      }
+
+      #article .profile .frame {
+          vertical-align: middle;
+      }
+
+      #article .description {
+          width: 88%;
+      }
+
+      #article .comment .comment-form-comment textarea {
+          width: 95%;
+          padding: 16px;
+      }
+
+      #related-article {
+          padding-left: 40px;
+      }
+
+      #related-article .carouselItem .author {
+          margin-left: 0px;
+      }
+
+      #related-article .carouselItem {
+          width: 31%;
+      }
+      
+      #related-article .carouselItem .frame {
+          margin-right: 8px;
+          vertical-align: top;
+      }
+
+      #related-article .carouselItem span:nth-child(1) {
+          left: 0px;
+      }
+    }
+
+    @media screen and (min-width: 1260px) {
+      #article h1 {
+          font-size: 30px !important;
+      }
+      
+      #related-article h3 {
+          text-align: center;
+      }
+
+      #related-article .carouselItem {
+          width: 23%;
+      }
+    }
+</style><script type="text/javascript"> 
+var addthis_share = 
+{ url_transforms : 
+    { add: { 
+         utm_source: '{{code}}',
+         utm_medium: 'addthis' 
+     } 
+} 
+} 
+</script>
+
+
+
+	<span aria-hidden="true" id="to_top_scrollup" class="dashicons dashicons-arrow-up-alt2"><span class="screen-reader-text">Scroll Up</span></span><!-- Powered by WPtouch: 4.3.46 -->		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNXRHZJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpsl"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpsl-3.1.2"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "6.1.1"; } if (window.addthis_share === undefined) { window.addthis_share = {"passthrough":{"twitter":{"via":"glintsindo"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"data_ga_property":"UA-45385415-43","data_ga_social":true,"ui_atversion":"300","data_track_addressbar":true}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Smart Layers by AddThis","plugin_version":"3.1.2","plugin_mode":"AddThis","anonymous_profile_id":"wp-8c47c46ae64273c5e407b783fd2fcfbd","page_info":{"template":"posts","post_type":["post","page","e-landing-page"]},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a0d179c968a999a" async="async"></script><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.7"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "6.1.1"; } if (window.addthis_share === undefined) { window.addthis_share = {"passthrough":{"twitter":{"via":"glintsindo"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"data_ga_property":"UA-45385415-43","data_ga_social":true,"ui_atversion":"300","data_track_addressbar":true}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.7","plugin_mode":"AddThis","anonymous_profile_id":"wp-8c47c46ae64273c5e407b783fd2fcfbd","page_info":{"template":"posts","post_type":["post","page","e-landing-page"]},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a0d179c968a999a" async="async"></script><script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/easy-sign-up/js/esu-validate.js?ver=3.4' defer onload='' id='esu_js_url-js'></script>
+<script type='text/javascript' id='clicktrack-adrotate-js-extra'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/glints.com\/id\/lowongan\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js' id='clicktrack-adrotate-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/assets/js/jquery.cycle2.min.js?ver=6.1.1' id='gp_cycle2-js'></script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/custom-banners/assets/js/custom-banners.js?ver=6.1.1' defer onload='' id='custom-banners-js-js'></script>
+<script type='text/javascript' id='rate-my-post-js-extra'>
+/* <![CDATA[ */
+var rmp_frontend = {"admin_ajax":"https:\/\/glints.com\/id\/lowongan\/wp-admin\/admin-ajax.php","postID":"101366","noVotes":"Belum ada penilaian, jadi yang pertama menilai artikel ini.","cookie":"Kamu sudah menilai! Penilaian ini tidak akan dihitung!","afterVote":"Terima kasih sudah menilai artikel ini!","notShowRating":"1","social":"1","feedback":"2","cookieDisable":"1","emptyFeedback":"Please insert your feedback in the box above!","hoverTexts":"1","preventAccidental":"1","grecaptcha":"1","siteKey":"","votingPriv":"1","loggedIn":"","positiveThreshold":"2","ajaxLoad":"1","nonce":"114602bd24"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/rate-my-post/public/js/rate-my-post.js?ver=3.3.8' defer onload='' id='rate-my-post-js'></script>
+<script defer type='text/javascript' src='https://glints.com/id/lowongan/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1670025612' defer onload='' id='akismet-frontend-js'></script>
+<script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>
+</body>
+
+</html>
