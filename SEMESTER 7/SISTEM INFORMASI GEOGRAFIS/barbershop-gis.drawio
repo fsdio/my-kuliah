@@ -1,0 +1,246 @@
+<mxfile host="Electron" modified="2024-01-15T08:15:35.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Ng_1uArM4Fh_d2j0osCE" version="22.1.16" type="device" pages="2">
+  <diagram name="diagram-konteks" id="ZvhC5bUY5GmquxSzHRo2">
+    <mxGraphModel dx="1354" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EaGccthOOIup-RVqcbqr-1" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Customer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Adminstrator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Member&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PL 1&lt;br&gt;Website Barbershop&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="820" y="260" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-8" value="&lt;p style=&quot;line-height: 99%;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Daftar Barbershop&lt;/font&gt;&lt;/p&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.2421" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="309" as="sourcePoint" />
+            <mxPoint x="289" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="50" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Menu Maps, Profile&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.198" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="290" as="sourcePoint" />
+            <mxPoint x="289" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="70" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Searching sesuai Nama Barbershop, Nama Pemilik&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.1537" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="90" as="sourcePoint" />
+            <mxPoint x="1029" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1029" y="90" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Filter dengan Jarak, Harga&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.1073" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="110" as="sourcePoint" />
+            <mxPoint x="1010" y="265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mendapatkan Kordinat Secara otmatis untuk rute&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="259" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="255" as="sourcePoint" />
+            <mxPoint x="290" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Status Barbershop&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EaGccthOOIup-RVqcbqr-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.1353" y="1" relative="1" as="geometry">
+            <mxPoint x="-57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data Login&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0037" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="832" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data Register&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0131" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="350" as="sourcePoint" />
+            <mxPoint x="823" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Update, Delete, Simpan Data Profile Barbershop (sendiri)&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0247" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="370" as="sourcePoint" />
+            <mxPoint x="817" y="370" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Get Coordinate (otomatis)&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0325" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="813" y="390" as="sourcePoint" />
+            <mxPoint x="290" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Verifikasi Akun Member&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0331" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="813" y="412" as="sourcePoint" />
+            <mxPoint x="290" y="412" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Update Status Barbershop&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0131" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="430" as="sourcePoint" />
+            <mxPoint x="817" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Get Coordinate (manual)&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0189" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="450" as="sourcePoint" />
+            <mxPoint x="290" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data Login&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.1964" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="610" as="sourcePoint" />
+            <mxPoint x="840" y="488" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="610" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-24" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Get Coordinate (otomatis)&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.2208" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="509" as="sourcePoint" />
+            <mxPoint x="290" y="632" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="632" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Update, Delete, Simpan Data Profile Barbershop (semua)&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.2458" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="653" as="sourcePoint" />
+            <mxPoint x="880" y="527" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="653" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Menampilkan Status Barbershop&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.2732" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="543" as="sourcePoint" />
+            <mxPoint x="290" y="676" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="676" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-28" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Get Coordinat (manual)&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.3068" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="695" as="sourcePoint" />
+            <mxPoint x="920" y="547" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="696" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaGccthOOIup-RVqcbqr-29" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Get All Data Barbershop&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.3407" y="2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="716" as="sourcePoint" />
+            <mxPoint x="940" y="551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="720" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ay5giMf_viV_El1pViL3" name="dfd-level-1">
+    <mxGraphModel dx="1019" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UJM_pKJfpo_PdD-BYVN4-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-4" value="1.1&lt;br&gt;Pengecekan Lokasi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-5" value="" style="shape=link;html=1;rounded=0;width=52.35294117647059;" edge="1" parent="UObUZFRlMd2OKCVMvAsR-7">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="100" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-6" value="Data Profile&lt;br&gt;Barbershop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UObUZFRlMd2OKCVMvAsR-7">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-8" value="1.2&lt;br&gt;Mencari data dengan Nama Barbershop / Nama Pemilik" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-9" value="1.3&lt;br&gt;Mengfilter dataBarbershop dengan Jarak atau Harga" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-11" value="Get Coordinate saat ini(otomatis)" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2778" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="sourcePoint" />
+            <mxPoint x="20" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="210" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UObUZFRlMd2OKCVMvAsR-14" value="Mendapatkan Data" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3061" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="140" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="20" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
